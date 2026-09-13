@@ -42,3 +42,9 @@ main section{
     border-radius: 10px ;
     background-color :#1a1a1a;
 }
+    a{
+color :orange;
+        padding :10px;
+        border : 2px solid orange;
+        
+    }
