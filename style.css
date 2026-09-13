@@ -19,5 +19,6 @@ h2 {
    }
 main{
     display : flex ;
+    gap : 30px ;
     
 }
