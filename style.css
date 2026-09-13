@@ -4,6 +4,12 @@ body {
 
     background-color: black;
     color : white;
+a{
+    color :orange;
+        padding :10px;
+        border : 2px solid orange;
+        
+    }
 
 }
 h1 {
@@ -42,9 +48,4 @@ main section{
     border-radius: 10px ;
     background-color :#1a1a1a;
 }
-    a{
-color :orange;
-        padding :10px;
-        border : 2px solid orange;
-        
-    }
+    
