@@ -17,6 +17,10 @@ h2 {
     padding :30 px;
     border-top : 5px solid red ;
    }
+main{
+    display :flex ;
+    gap :30px ;
+}
 main section{
     flex: 1 ;
     
