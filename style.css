@@ -1,9 +1,10 @@
-
+https://symrodd.github.io/Chicken-tooth/
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 body {
 
     background-color: black;
     color : white;
+}
 a{
     color :orange;
         padding :10px;
@@ -17,7 +18,7 @@ a:hover{
 }
 .plateformes a {
     margin: 5px;
-    texte-alingn :center;
+    texte-align :center;
 }
 }
 h1 {
@@ -58,10 +59,7 @@ main section{
     background-color :#1a1a1a;
 }
 
-    .plateformes {
-    display: inline-block;
-    margin: 10px;
-    text-align:center;
-    border: 2px solid red;
-    }
+.plateformes {
+    text-align: center;
+}
     
