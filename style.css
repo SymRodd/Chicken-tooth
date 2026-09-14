@@ -58,5 +58,7 @@ main section{
     .plateformes {
     display: inline-block;
     margin: 10px;
+    text-align:center;
+    
     }
     
