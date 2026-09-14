@@ -19,7 +19,7 @@ a:hover{
 }
 h1 {
     color : red ;
-   font-size : 60px ;
+    font-size : 60px ;
     margin : 60px ;
     text-align : center ;
     max-width : 500px;
@@ -32,10 +32,13 @@ h1 {
    }
 h2 {
     color : orange ;
-   font-size : 30px ;
+    font-size : 30px ;
     padding :30 px;
     border-top : 5px solid red ;
     font-family : "Pirata One", serif;
+    max-width : 100px;
+    margin-right : auto ;
+    margin-left :auto ;
    }
 main{
     display :flex ;
