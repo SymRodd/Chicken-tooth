@@ -15,7 +15,9 @@ a:hover{
     background-color : red;
     color:black;
 }
-
+.plateformes a {
+    margin: 5px;
+}
 }
 h1 {
     color : red ;
