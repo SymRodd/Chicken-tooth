@@ -61,6 +61,6 @@ main section{
     display: inline-block;
     margin: 10px;
     text-align:center;
-    
+    border: 2px solid red;
     }
     
