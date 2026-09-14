@@ -36,9 +36,7 @@ h2 {
     padding :30 px;
     border-top : 5px solid red ;
     font-family : "Pirata One", serif;
-    max-width : 100px;
-    margin-right : auto ;
-    margin-left :auto ;
+    
    }
 main{
     display :flex ;
