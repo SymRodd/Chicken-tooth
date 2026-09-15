@@ -28,6 +28,7 @@ h1 {
     padding :100px 20px;
     border-bottom : 2px solid white;
     font-family : "Pirata One", serif;
+    text-shadow: 3px 3px 0px #000;
 
    }
 h2 {
